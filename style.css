@@ -1,3 +1,11 @@
+.txt{
+    text-align: center;
+    font-size: larger;
+    color:red;
+}
+.space{
+    height: 300px;
+}
 #gear1, #gear2, #gear3 {
     color: #888;
     display: block;
